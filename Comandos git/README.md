@@ -33,13 +33,6 @@ O Git é um **versionador de códigos**. Basicamente, o git cria multiplas cópi
 * git commit -m
  > Cria um comentário das alterações do commit criado.
 
-
-## Referências
-
-- https://gist.github.com/leocomelli/2545add34e4fec21ec16#file-git-md
-- https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git
-
-
 * git clone
  > Clona o repositório remoto.
 
@@ -58,6 +51,12 @@ O Git é um **versionador de códigos**. Basicamente, o git cria multiplas cópi
 
 * git checkout
 
-* 
+
+
+## Referências
+
+- https://gist.github.com/leocomelli/2545add34e4fec21ec16#file-git-md
+- https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git
+ 
  
 

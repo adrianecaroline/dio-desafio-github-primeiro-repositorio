@@ -28,4 +28,29 @@ O Git é um **versionador de códigos**. Basicamente, o git cria multiplas cópi
  > Adiciona os arquivos/diretórios não reconhecidos pelo git para uma área "conhecida" - staged.
  
 * git commit
- > Cria um commit
+ > Cria um commit.
+
+* git commit -m
+ > Cria um comentário das alterações do commit criado.
+
+* git clone
+ > Clona o repositório remoto.
+
+* git push
+
+* git push origin HEAD
+ > Sincroniza os arquivos comitados com o versionador remoto.
+
+* git pull
+ 
+* git fetch
+
+* git merge
+
+* git rebase 
+
+* git checkout
+
+* 
+ 
+

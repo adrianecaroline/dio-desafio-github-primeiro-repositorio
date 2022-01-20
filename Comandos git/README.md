@@ -1,5 +1,5 @@
 # Git 
-O Git é um **versionador de códigos**. Basicamente, o git cria multiplas cópias>
+O Git é um **versionador de códigos**. Basicamente, o git cria multiplas cópias de arquivos/repositórios em diferentes locais.
 
 ## Git Comandos
 
